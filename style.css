@@ -1,0 +1,119 @@
+.welcome {
+    width: 480px;
+    height: 140px;
+    background-color: #04AA6D;
+    border: 2px #026b45;
+    border-style: groove;
+    padding: 4px;
+    text-align: center;
+    border-radius: 12px;
+    margin: auto;
+    font-size: 30px;
+}
+
+.red {
+    position: relative;
+    bottom: 80px;
+    width: 400px;
+    height: 80px;
+    background-color: #04AA6D;
+    border: 2px #026b45;
+    border-style: groove;
+    padding: 4px;
+    text-align: center;
+    border-radius: 12px;
+    margin: auto;
+    font-size: 26px;
+    color: red;
+}
+
+.calm {
+    position: relative;
+    bottom: 12px;
+    width: auto;
+    background-color: #04AA6D;
+    border: 2px #015234;
+    border-style: groove;
+    padding: 4px;
+    text-align: center;
+    border-radius: 12px;
+    margin: auto;
+    color: black;
+    font-size: 24px;
+    font-family: 'Arial Narrow Bold';
+    font-weight: bold;
+}
+
+#remember {
+    margin: auto;
+    width: auto;
+    background-color: #04AA6D;
+    border: 2px #015234;
+    border-style: groove;
+    padding: 4px;
+    text-align: center;
+    border-radius: 12px;
+    color: black;
+    font-size: 24px;
+    font-family: 'Arial Narrow Bold';
+    font-weight: bold;
+}
+
+.button {
+    float: right;
+    position: relative;
+    bottom: 30px;
+    font-size: 28px;
+    font-family: monospace;
+    background-color: #04AA6D;
+    border: 2px black;
+    color: rgb(10, 4, 19);
+    padding: 4px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+.purge {
+    Margin: auto;
+    width: auto;
+    background-color: #04AA6D;
+    border: 2px #015234;
+    border-style: groove;
+    font-size: 26px;
+    font-family: monospace;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(24, 16, 44);
+    padding: 4px;
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+.banner {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    font-weight: bolder;
+    font-size: 65px;
+    font-stretch: ultra-expanded
+}
+
+label2 {
+    position: relative;
+    left: 660px;
+    bottom: 235px;
+    width: auto;
+    background-color: #04AA6D;
+    border: 2px #015234;
+    border-style: groove;
+    padding: 7px;
+    text-align: center;
+    border-radius: 12px;
+    margin: auto;
+    color: black;
+    font-size: 24px;
+    font-family: 'Arial Narrow Bold';
+    font-weight: bold;
+}
